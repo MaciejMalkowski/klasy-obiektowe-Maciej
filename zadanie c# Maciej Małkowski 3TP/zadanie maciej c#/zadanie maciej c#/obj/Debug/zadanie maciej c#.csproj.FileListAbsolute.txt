@@ -1,0 +1,7 @@
+C:\Users\3TP_gr_2\Desktop\zadanie c# Maciej Małkowski 3TP\zadanie maciej c#\zadanie maciej c#\obj\Debug\zadanie maciej c#.csproj.AssemblyReference.cache
+C:\Users\3TP_gr_2\Desktop\zadanie c# Maciej Małkowski 3TP\zadanie maciej c#\zadanie maciej c#\obj\Debug\zadanie maciej c#.csproj.CoreCompileInputs.cache
+C:\Users\3TP_gr_2\Desktop\zadanie c# Maciej Małkowski 3TP\zadanie maciej c#\zadanie maciej c#\bin\Debug\zadanie maciej c#.exe.config
+C:\Users\3TP_gr_2\Desktop\zadanie c# Maciej Małkowski 3TP\zadanie maciej c#\zadanie maciej c#\bin\Debug\zadanie maciej c#.exe
+C:\Users\3TP_gr_2\Desktop\zadanie c# Maciej Małkowski 3TP\zadanie maciej c#\zadanie maciej c#\bin\Debug\zadanie maciej c#.pdb
+C:\Users\3TP_gr_2\Desktop\zadanie c# Maciej Małkowski 3TP\zadanie maciej c#\zadanie maciej c#\obj\Debug\zadanie maciej c#.exe
+C:\Users\3TP_gr_2\Desktop\zadanie c# Maciej Małkowski 3TP\zadanie maciej c#\zadanie maciej c#\obj\Debug\zadanie maciej c#.pdb
